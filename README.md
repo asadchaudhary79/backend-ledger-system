@@ -46,7 +46,7 @@ A robust, **production-grade** backend service for managing accounts, balances, 
 1. Clone the repository:
    ```bash
    git clone https://github.com/asadchaudhary79/backend-ledger-system.git
-   cd backend-ledger
+   cd backend-ledger-system
    ```
 2. Install dependencies:
    ```bash
